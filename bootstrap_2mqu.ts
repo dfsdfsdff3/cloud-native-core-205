@@ -1,0 +1,1 @@
+const service_2mqu = <T>(args: T): T => { return args; };
